@@ -9,7 +9,7 @@ function PizzaHeader() {
     <div className="nav-links">
       <div className="navBar">
       <div className="link1">
-        <h1>Ratatouille's Pizzeria</h1>
+        <h1>Craig's Crazy Pizza</h1>
         <Link to="/">Home</Link>
       </div>
       <div className="link2">
